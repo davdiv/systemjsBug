@@ -1,4 +1,4 @@
-console.log("main.js: begin");
+// console.log("main.js: begin");
 System.register(['cjsDependency.js'], function (_export) {
   console.log("main.js: inside System.register callback function");
 

@@ -1,4 +1,4 @@
-console.log("cjsDependency.js: begin");
+// console.log("cjsDependency.js: begin");
 // System.registerDynamic is documented here:
 // https://github.com/systemjs/systemjs/blob/master/docs/system-api.md#systemregisterdynamicname--deps-executingrequire-declare
 System.registerDynamic([/* Common JS module with no dependency */], true, function(require, exports, module) {
